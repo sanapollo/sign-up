@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+
+}
+.left {
+    width:33%;
+    height: 100%;
+}
+.main {
+    width:66%;
+    height: 100%;
+}
+.form {
+    display: flex;
+}
